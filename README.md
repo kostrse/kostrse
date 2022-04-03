@@ -1,5 +1,5 @@
 
-🇺🇦 **SLAVA UKRAINI!**
+# 🇺🇦 SLAVA UKRAINI!
 
 Hi 👋 I work on Azure features in [Grafana](https://github.com/grafana/grafana).
 
