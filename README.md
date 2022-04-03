@@ -11,8 +11,8 @@ You can find me in [Grafana Community on Slack](https://slack.grafana.com/).
 
 ### Code
 
-* [Grafana]() - GitHub repo of Grafana including **Azure Monitor** and **Prometheus** datasources
-* [Azure Data Exploerer](https://github.com/grafana/azure-data-explorer) - **Azure Data Explorer** datasource
+* [Grafana](https://github.com/grafana/grafana) - GitHub repo of Grafana including **Azure Monitor** and **Prometheus** datasources
+* [Azure Data Exploerer](https://github.com/grafana/azure-data-explorer-datasource) - **Azure Data Explorer** datasource
 * [Grafana Azure SDK for Go](https://github.com/grafana/grafana-azure-sdk-go) - Azure authentication for datasources
 
 
